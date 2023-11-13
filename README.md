@@ -1,4 +1,4 @@
-Tech Stack used: JavaScript, React.js, HTML, Tailwind CSS, CSS
+Tech Stack used: **JavaScript, React.js, HTML, Tailwind CSS, CSS**
 
 In the project directory, you can run:
 
